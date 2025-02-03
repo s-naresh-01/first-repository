@@ -1,9 +1,2 @@
-creating snake
-creating food
-
-
-hi there  
-
-
-
-
+dandanaka added 
+changed new commot 
